@@ -3,5 +3,9 @@
   "version": "1.4.2",
   "description": "This twitter bootstrap plugin builds a wizard out of a formatter tabbable structure.",
   "main": "jquery.bootstrap.wizard.js",
+  "dependencies": {
+    "jquery": ">=1.9.1",
+    "bootstrap": ">=3.3.0"
+  },
   "license": "ISC"
 }
